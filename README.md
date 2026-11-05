@@ -2,6 +2,8 @@
 
 A first attempt at implementing computer vision.
 
+Uploading demo.mp4…
+
 Control your computer's mouse with your hand using your webcam.
 Point with your index finger to move the cursor, and pinch your
 thumb and index finger together to click.
