@@ -10,8 +10,8 @@ Built with Python, OpenCV, MediaPipe and PyAutoGUI.
 
 ## Files
 
-- `mouse-control.py` – the hand gesture mouse
-- `main.py` – a simpler demo that just tracks and draws your hand
+- `mouse-control.py`: the hand gesture mouse
+- `main.py`: a simpler demo that just tracks and draws your hand
 
 ## Setup
 
@@ -36,8 +36,8 @@ Press **Q** in the camera window to quit.
 In System Settings → Privacy & Security, give the app you're running it from
 (e.g. VS Code or Terminal) access to:
 
-- **Camera** – so it can see your hand
-- **Accessibility** – so it can move and click the mouse
+- **Camera**: so it can see your hand
+- **Accessibility**: so it can move and click the mouse
 
 Restart that app after turning these on.
 
@@ -45,5 +45,5 @@ Restart that app after turning these on.
 
 At the top of `mouse-control.py`:
 
-- `smoothing` – lower = smoother but slower cursor, higher = faster but shakier
-- `pinch_threshold` – how close your fingers need to be to count as a click
+- `smoothing`: lower = smoother but slower cursor, higher = faster but shakier
+- `pinch_threshold`: how close your fingers need to be to count as a click
