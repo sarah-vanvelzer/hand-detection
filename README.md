@@ -2,7 +2,7 @@
 
 A first attempt at implementing computer vision.
 
-Uploading demo.mp4…
+https://github.com/user-attachments/assets/50213352-f387-4afa-b087-fdb690c6236b
 
 Control your computer's mouse with your hand using your webcam.
 Point with your index finger to move the cursor, and pinch your
