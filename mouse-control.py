@@ -4,7 +4,7 @@ import pyautogui
 import math
 
 def hand_gesture_mouse_control():
-    cam = cv2.VideoCapture(1)
+    cam = cv2.VideoCapture(0)
     mp_hands = mp.solutions.hands.Hands(max_num_hands=1)
     mp_drawing = mp.solutions.drawing_utils
 
