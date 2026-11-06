@@ -1,4 +1,4 @@
-# Hand Gesture Mouse
+# Exploring Hand Tracking
 
 A first attempt at implementing computer vision.
 
